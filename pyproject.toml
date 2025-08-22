@@ -5,3 +5,4 @@ description = "Claude Code、Codex 与 ChatGPT 的文档驱动开发治理插件
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
 # match the style used in the rest of the module
+# handle the edge case from the last release
